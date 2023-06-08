@@ -1,6 +1,6 @@
 #Github attic for Minsu
 
-#main IDE: Visual Studio Code
+#main IDE: Visual Studio Code   
 #magor language: C
 <!--
 **minsubak/minsubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
