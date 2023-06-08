@@ -1,4 +1,4 @@
-#Github attic for Minsu
+#Github attic for Minsu 💾   
 
 #main IDE: Visual Studio Code, MSYS2 ✔   
 #magor language: C ✔   
