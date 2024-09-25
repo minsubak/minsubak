@@ -1,6 +1,6 @@
 #Github for Minsu Bak 💾   
 
-#main IDE: Visual Studio Code, Intelij, vim ✔   
+#main Tool: Visual Studio Code, Intelij, vim ✔   
 #major OS: Windows, Ubuntu ✔   
 #magor language: C, C++, Java ✔   
 <!--
