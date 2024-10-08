@@ -2,7 +2,7 @@
 
 #main Tool: Visual Studio Code, Intelij, vim ✔   
 #major OS: Windows, Ubuntu ✔   
-#magor language: C, C++, Java ✔   
+#magor language: C, C++, Java, Python ✔   
 <!--
 **minsubak/minsubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
