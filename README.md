@@ -1,8 +1,9 @@
 #Github for Minsu Bak 💾   
 
-#main Tool: Visual Studio Code, Intelij, vim ✔   
-#major OS: Windows, Ubuntu ✔   
-#magor language: C, C++, Java, Python ✔   
+# main Tool: Visual Studio Code, Cursor, vim ✔   
+# major OS: Windows, Ubuntu ✔   
+# magor language: C, C++, Java, Python ✔   
+# Favorite LLM: Gemini-CLI, Cursor ✔ 
 <!--
 **minsubak/minsubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
